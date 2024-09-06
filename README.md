@@ -2,8 +2,7 @@
 <h1 align="center">Hey 👋 Good to see you</h1>
 <h3 align="center">A Passionate Infrastructure Operations Engineer from Sri Lanka</h3>
 
-
-<img align="right" alt="coding" width="90" src="https://github.com/user-attachments/assets/c9da054e-7d1b-4233-8686-0057e8b5923d">
+<img align="right" alt="coding" width="80" src="https://github.com/user-attachments/assets/c9da054e-7d1b-4233-8686-0057e8b5923d">
 
 
 # 💫 About Me:
